@@ -1,0 +1,109 @@
+[
+  {
+    "slug": "tap-games",
+    "name": "Tap Games",
+    "url": "https://zeroplaygames.com/tap-games",
+    "members": [
+      "Quick Tap",
+      "Tap Tower",
+      "Tap Tycoon",
+      "Balloon Pop",
+      "Gravity Flip",
+      "Color Switch"
+    ]
+  },
+  {
+    "slug": "merge-games",
+    "name": "Merge Games",
+    "url": "https://zeroplaygames.com/merge-games",
+    "members": [
+      "Hex Merge",
+      "Merge Defense",
+      "Pet Merge",
+      "2048"
+    ]
+  },
+  {
+    "slug": "defense-games",
+    "name": "Defense Games",
+    "url": "https://zeroplaygames.com/defense-games",
+    "members": [
+      "Tower Defense",
+      "Plant Defense",
+      "Merge Defense"
+    ]
+  },
+  {
+    "slug": "memory-games",
+    "name": "Memory Games",
+    "url": "https://zeroplaygames.com/memory-games",
+    "members": [
+      "Memory Cards",
+      "Memory Sequence"
+    ]
+  },
+  {
+    "slug": "reaction-games",
+    "name": "Reaction Games",
+    "url": "https://zeroplaygames.com/reaction-games",
+    "members": [
+      "Quick Tap",
+      "Reaction Speed Test",
+      "Whack-a-Mole",
+      "Fruit Catch",
+      "Avoid Blocks",
+      "Tile Hop",
+      "Table Tennis"
+    ]
+  },
+  {
+    "slug": "number-games",
+    "name": "Number Games",
+    "url": "https://zeroplaygames.com/number-games",
+    "members": [
+      "2048",
+      "Number Puzzle",
+      "Speed Math",
+      "Sudoku Lite",
+      "Hex Merge"
+    ]
+  },
+  {
+    "slug": "word-games",
+    "name": "Word Games",
+    "url": "https://zeroplaygames.com/word-games",
+    "members": [
+      "Word Scramble",
+      "Word Search",
+      "Hangman"
+    ]
+  },
+  {
+    "slug": "classic-games",
+    "name": "Classic Games",
+    "url": "https://zeroplaygames.com/classic-games",
+    "members": [
+      "Tetris",
+      "Minesweeper",
+      "Tic Tac Toe",
+      "Pong",
+      "Space Invaders",
+      "Brick Breaker",
+      "Pac-Man",
+      "Frogger"
+    ]
+  },
+  {
+    "slug": "idle-games",
+    "name": "Idle & Clicker Games",
+    "url": "https://zeroplaygames.com/idle-games",
+    "members": [
+      "Cookie Clicker",
+      "Idle Miner",
+      "Idle Factory",
+      "Tap Tycoon",
+      "Lemonade Stand",
+      "Pet Merge"
+    ]
+  }
+]

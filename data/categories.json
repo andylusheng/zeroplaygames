@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "action",
+    "name": "Action",
+    "count": 6,
+    "url": "https://zeroplaygames.com/action"
+  },
+  {
+    "slug": "arcade",
+    "name": "Arcade",
+    "count": 23,
+    "url": "https://zeroplaygames.com/arcade"
+  },
+  {
+    "slug": "casual",
+    "name": "Casual",
+    "count": 13,
+    "url": "https://zeroplaygames.com/casual"
+  },
+  {
+    "slug": "idle",
+    "name": "Idle",
+    "count": 6,
+    "url": "https://zeroplaygames.com/idle"
+  },
+  {
+    "slug": "puzzle",
+    "name": "Puzzle",
+    "count": 22,
+    "url": "https://zeroplaygames.com/puzzle"
+  },
+  {
+    "slug": "racing",
+    "name": "Racing",
+    "count": 6,
+    "url": "https://zeroplaygames.com/racing"
+  },
+  {
+    "slug": "shooting",
+    "name": "Shooting",
+    "count": 8,
+    "url": "https://zeroplaygames.com/shooting"
+  },
+  {
+    "slug": "sports",
+    "name": "Sports",
+    "count": 9,
+    "url": "https://zeroplaygames.com/sports"
+  },
+  {
+    "slug": "strategy",
+    "name": "Strategy",
+    "count": 7,
+    "url": "https://zeroplaygames.com/strategy"
+  }
+]
